@@ -1,0 +1,27 @@
+body {
+    background-color: #FAF8F1;
+}
+
+img {
+    position: fixed;
+    right: 80%;
+    bottom: 65%;
+    width: 20%;
+    height: 35%;
+}
+
+.about_sentence {
+    position: fixed;
+    bottom: 85%;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
